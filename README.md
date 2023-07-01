@@ -1,0 +1,2 @@
+# CryptograpyUtilities
+ This repository contains a Java class CryptoUtilities and its corresponding test class CryptoUtilitiesTest. The CryptoUtilities class provides utility methods that could be used with RSA cryptosystems. It includes methods for generating random numbers, finding the greatest common divisor of two numbers, checking if a number is even, and checking if a number is prime. The CryptoUtilitiesTest class provides unit tests for these methods.
